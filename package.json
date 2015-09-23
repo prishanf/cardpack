@@ -1,7 +1,7 @@
 {
   "name": "cardpack",
   "version": "1.0.0",
-  "description": "Get Cards and Random cards",
+  "description": "Get cards and random cards",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

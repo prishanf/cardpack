@@ -29,8 +29,14 @@
        lib.random
 
 3.Pushing to GitHub
+	create git ignore file .gitignore to add the node_modules as ignore folder
+	git add -A
+	git commit -m "Inital Code"
+	git push -u origin master
 
 
+4 Pushing to NPM
+	npm publish
 		
 
 
