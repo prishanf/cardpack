@@ -1,0 +1,27 @@
+{
+  "name": "cardpack",
+  "version": "1.0.0",
+  "description": "Get Cards and Random cards",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prishanf/cardpack.git"
+  },
+  "keywords": [
+    "cards",
+    "rondom",
+    "cards"
+  ],
+  "author": "Prishan Fernando <prishanf@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prishanf/cardpack/issues"
+  },
+  "homepage": "https://github.com/prishanf/cardpack#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
